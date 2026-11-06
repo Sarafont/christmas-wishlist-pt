@@ -198,5 +198,14 @@ export const products: Produto[] = [
     notas: "",
     imagem: "https://img.wook.pt/images/ficara-sempre-o-amor-alice-kellen/MXwzMjE3OTc1NHwyODYyMjUxNXwxNzc3MDMyODY0MDAwfHdlYnB8NDI=/550x",
     link: "https://www.wook.pt/livro/ficara-sempre-o-amor-alice-kellen/32179754",
+  },
+  {
+    id: 21,
+    nome: "Pó compacto huda beauty",
+    categoria: "Maquilhagem",
+    preço: "40,00 €",
+    notas: "Na cor Pound Cake",
+    imagem: "https://media.sephora.eu/content/dam/gdam/europe/digital/pim/published/H/HUDA_BEAUTY/795412/390628-media_swatch-0.jpg?scaleWidth=750&scaleHeight=750&scaleMode=fit",
+    link: "https://www.sephora.pt/p/easy-bake-pressed-powder---po-compacto-P1000211898.html",
   }
 ];
