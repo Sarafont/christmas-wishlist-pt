@@ -207,5 +207,14 @@ export const products: Produto[] = [
     notas: "Na cor Pound Cake",
     imagem: "https://media.sephora.eu/content/dam/gdam/europe/digital/pim/published/H/HUDA_BEAUTY/795412/390628-media_swatch-0.jpg?scaleWidth=750&scaleHeight=750&scaleMode=fit",
     link: "https://www.sephora.pt/p/easy-bake-pressed-powder---po-compacto-P1000211898.html",
+  },
+  {
+    id: 22,
+    nome: "Blush Kosas",
+    categoria: "Maquilhagem",
+    preço: "37,00 €",
+    notas: "Na cor Nuance",
+    imagem: "https://media.sephora.eu/content/dam/gdam/europe/digital/pim/published/K/KOSAS/811346/399904-media_swatch-0.jpg?scaleWidth=750&scaleHeight=750&scaleMode=fit",
+    link: "https://www.sephora.pt/p/impressionist-multistick---stick-cremoso-macas-do-rosto-labios-P1000214372.html"
   }
 ];
