@@ -216,5 +216,32 @@ export const products: Produto[] = [
     notas: "Na cor Nuance",
     imagem: "https://media.sephora.eu/content/dam/gdam/europe/digital/pim/published/K/KOSAS/811346/399904-media_swatch-0.jpg?scaleWidth=750&scaleHeight=750&scaleMode=fit",
     link: "https://www.sephora.pt/p/impressionist-multistick---stick-cremoso-macas-do-rosto-labios-P1000214372.html"
+  },
+  {
+    id: 23,
+    nome: "Pijama de cetim",
+    categoria: "Roupa & Calçado",
+    preço: "15,99 €",
+    notas: "Na cor Natural, tamanho M",
+    imagem: "https://www.tramasmas.com/cdn/shop/files/9849-357-1_b0344196-8f57-4681-80e7-64f160bc708e.jpg?v=1788870135&width=600",
+    link: "https://www.tramasmas.com/pt-pt/products/9849-pijama-largo-camis-saten-mujer-friday-solid-natural-357"
+  },
+  {
+    id: 24,
+    nome: "Roupão",
+    categoria: "Roupa & Calçado",
+    preço: "12,99 €",
+    notas: "Na cor Arena, tamanho S",
+    imagem: "https://www.tramasmas.com/cdn/shop/files/233-99-S1.jpg?v=1793015426&width=600",
+    link: "https://www.tramasmas.com/pt-pt/products/233-bata-coral-mujer-solid-arena-99"
+  },
+  {
+    id: 25,
+    nome: "Pijama camiseiro de viscose",
+    categoria: "Roupa & Calçado",
+    preço: "15,99 €",
+    notas: "Na cor Beringela Seca, tamanho M",
+    imagem: "https://www.tramasmas.com/cdn/shop/files/9956-532-S1.jpg?v=1788955660&width=2200",
+    link: "https://www.tramasmas.com/pt-pt/products/9956-pijama-largo-camis-visco-punto-mujer-solid-berenjena-seco-532"
   }
 ];
